@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 
-public class Animator {
+public class AnimationLibrary {
 
     //Shake Animation
     public void doShakeAnimation(View view, Context applicationContext) {
