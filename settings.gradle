@@ -1,0 +1,3 @@
+include ':animationlibrary'
+include ':app'
+rootProject.name = "AnimationLibrary"
