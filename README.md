@@ -1,3 +1,3 @@
 # Animation Library
 
-Use the library to animate your app
+Library to animate Views, Activities, Fragments transitions
