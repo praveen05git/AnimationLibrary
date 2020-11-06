@@ -30,4 +30,4 @@ Library to animate Views, Activities, Fragments transitions
   * Activity1/Fragment1 Exit though Right and Acitivty2/Fragment2 enters from Left: leftEnterRightOut()
   
 <b>Sample:</b>
-* Sample project and APK can be found here:https://github.com/praveen05git/AnimationLibrarySample
+* Sample project and APK can be found here: https://github.com/praveen05git/AnimationLibrarySample
