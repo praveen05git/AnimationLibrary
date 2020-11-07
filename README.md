@@ -15,19 +15,19 @@ Library to animate Views, Activities, Fragments transitions for Android Apps
 
 <b>Available Methods:</b>
 * Special Animations:
-  * Shake: doShakeAnimation()
-  * Fade-In: doFadeInAnimation()
+  * Shake: <b>doShakeAnimation()</b>
+  * Fade-In: <b>doFadeInAnimation()</b>
 * Enter Animations:
-  * Enter: doEnterAnimation()
-  * Enter from Left: doLeftEnterAnimation()
-  * Enter from right: doRightEnterAnimation()
+  * Enter: <b>doEnterAnimation()</b>
+  * Enter from Left: <b>doLeftEnterAnimation()</b>
+  * Enter from right: <b>doRightEnterAnimation()</b>
 * Exit Animations:
   * Exit: doExitAnimation()
-  * Exit through Left: doLeftExitAnimation()
-  * Exit through Right: doRightExitAnimation()
+  * Exit through Left: <b>doLeftExitAnimation()</b>
+  * Exit through Right: <b>doRightExitAnimation()</b>
 * Transition Animations:
-  * Activity1/Fragment1 Exit though Left and Acitivty2/Fragment2 enters from Right: rightEnterLeftOut()
-  * Activity1/Fragment1 Exit though Right and Acitivty2/Fragment2 enters from Left: leftEnterRightOut()
+  * Activity1/Fragment1 Exit though Left and Acitivty2/Fragment2 enters from Right: <b>rightEnterLeftOut()</b>
+  * Activity1/Fragment1 Exit though Right and Acitivty2/Fragment2 enters from Left: <b>leftEnterRightOut()</b>
   
 <b>Sample:</b>
 * Sample project and APK can be found here: https://github.com/praveen05git/AnimationLibrarySample
