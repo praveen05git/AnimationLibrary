@@ -22,7 +22,7 @@ Library to animate Views, Activities, Fragments transitions for Android Apps
   * Enter from Left: <b>doLeftEnterAnimation()</b>
   * Enter from right: <b>doRightEnterAnimation()</b>
 * Exit Animations:
-  * Exit: doExitAnimation()
+  * Exit: <b>doExitAnimation()</b>
   * Exit through Left: <b>doLeftExitAnimation()</b>
   * Exit through Right: <b>doRightExitAnimation()</b>
 * Transition Animations:
